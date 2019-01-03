@@ -1,6 +1,6 @@
 # vue-table
 
-> A Vue.js project
+> Table for more than 1k data
 
 ## Build Setup
 
